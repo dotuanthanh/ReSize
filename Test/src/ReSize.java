@@ -1,0 +1,4 @@
+interface ReSize {
+    double  ReSize();
+    }
+
